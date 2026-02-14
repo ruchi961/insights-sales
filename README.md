@@ -2,10 +2,10 @@
 
 
 Name: Ruchi Mali
-Email: ruchim2109@gmail.com
+**Email: ruchim2109@gmail.com**
 
-Role: Data Science / Applied AI Engineer
-Submission Format: GitHub repository + README
+**Role: Data Science / Applied AI Engineer
+Submission Format: GitHub repository + README**
 ________________________________________
 Section 1 
 1.	What do you think is the real business problem here?
@@ -66,6 +66,8 @@ o	Pipeline concentration – menaing  is pieline concentrated on particular aspe
 o	Deal velocity means deal outcomes done in what cycle divided by state of the deal in numerical weightage like propersed etc says how fast the deal is done by weighatyge 
 
 
+<hr/>
+
 Section 3 
 Option B – Win Rate Driver Analysis
 Identify which factors are hurting or improving win rate.
@@ -76,6 +78,10 @@ done
 •	Generate actionable outputs
 •	Explain how a sales leader would use this
 Using this factors or analysis the sales leaders can implement new stratergies example like if a product deals are winning less than can focus on typical products where deals are better or for failing products what factor fails , and correct or improve it like representative training imporiving locating and connecting to potential industries, products or regions which can help in closing deals that are successful for instance pro deals are done in india more successfully follow for more potential clients for pro deals, or expalnd market for other enterprise deals or other product or industries, they can also use the data to have prediction on an goinoing deal whether it will close or no how much more effort it will require like if a deal isfrom a lead source in a country it make close so proper folloup and other efforts can be implemented, focusing on a particular lead source, prediction whether an ongoing deal has been fop so many days and at such state andsuch deals had rthis wing rate in past compare  current factirs datat with old and see if more efforts need to vbe done as deal will close or no or focus on other deals like give more importance to deals an implement strategy , if a deal with huge amount can be closed in a specific region.
+
+
+
+<hr/>
 
 
 Section 4 and 5 
